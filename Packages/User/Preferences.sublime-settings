@@ -1,0 +1,44 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/User/Afterglow-monokai (SL).tmTheme",
+	"default_line_ending": "unix",
+	"detect_slow_plugins": true,
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		".tags",
+		".tags_sorted_by_file",
+		".gemtags"
+	],
+	"highlight_line": false,
+	"ignore_inodes": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"/home/davi.vidal/Documents/projects/cde*"
+	],
+	"pep8_ignore":
+	[
+		"E501"
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"status_bar_brighter": true,
+	"sublimelinter_mark_style": "outline",
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "Afterglow-orange.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}

@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[/**
+ * @Route("${1:/route}", name="${2:route-name}")
+ * @Template()
+ */
+public function ${3:actionName}Action(Request \$request)
+{
+    return array();
+}
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>sfaction</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>

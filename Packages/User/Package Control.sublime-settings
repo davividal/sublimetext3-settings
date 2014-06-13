@@ -1,0 +1,30 @@
+{
+	"installed_packages":
+	[
+		"Case Conversion",
+		"Ciapre Color Scheme",
+		"Djaneiro",
+		"DocBlockr",
+		"FileDiffs",
+		"GitGutter",
+		"HTML5",
+		"Markdown Preview",
+		"Monokai Extended",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"PHP Modern",
+		"PHP-Twig",
+		"PhpSpec Snippets",
+		"PostgreSQL Syntax Highlighting",
+		"RSpec",
+		"SideBarEnhancements",
+		"SimplePHPSpec",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-json",
+		"SublimeLinter-phpcs",
+		"Theme - Afterglow",
+		"Theme - Spacegray",
+		"Twig"
+	]
+}

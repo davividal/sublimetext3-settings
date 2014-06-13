@@ -1,0 +1,3 @@
+{
+    "shell_cmd": "workon pyminer; make test"
+}

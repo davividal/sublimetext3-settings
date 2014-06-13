@@ -1,0 +1,8 @@
+Backup/
+Cache/
+Index/
+Installed\ Packages/
+/Packages/*
+!/Packages/User/*
+Local/
+Settings/

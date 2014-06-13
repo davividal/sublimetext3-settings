@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[/*
+* Getter for ${1:PropertyName}
+* @return [${3:return type}]
+**/
+public function get${1:PropertyName}()
+{
+    return \$this->${2:${1/[A-Z]/\L$0/}};
+}
+
+/*
+* Setter for ${1:PropertyName}
+* @return [${4:\$this}]
+**/
+public function set${1:PropertyName}(\$${2:${1/[A-Z]/\L$0/}})
+{
+    \$this->${2:${1/[A-Z]/\L$0/}} = \$${2:${1/[A-Z]/\L$0/}};
+
+    return \$this;
+}]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rw</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>

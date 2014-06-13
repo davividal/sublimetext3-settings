@@ -1,0 +1,20 @@
+{
+    "connections": {
+        "Connection 1": {
+            "type"    : "pgsql",
+            "host"    : "pg-dev",
+            "port"    : 5432,
+            "username": "reserva",
+            "password": "T4Efk7W6",
+            "database": "reserva_imediata"
+        },
+        "Connection 2": {
+            "type"    : "pgsql",
+            "host"    : "pg-dev",
+            "port"    :  5433,
+            "username": "reserva",
+            "password": "T4Efk7W6",
+            "database": "reserva_imediata"
+        }
+    }
+}
