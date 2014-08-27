@@ -8,6 +8,7 @@
 		"FileDiffs",
 		"GitGutter",
 		"HTML5",
+		"Jinja2",
 		"Markdown Preview",
 		"Monokai Extended",
 		"PHP Companion",
@@ -23,8 +24,10 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-json",
 		"SublimeLinter-phpcs",
+		"SublimeLinter-pyyaml",
 		"Theme - Afterglow",
 		"Theme - Spacegray",
+		"Trimmer",
 		"Twig"
 	]
 }
